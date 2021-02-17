@@ -1,0 +1,25 @@
+{
+  "name": "domain-grabber",
+  "version": "1.0.0",
+  "description": "Grabber site with domain",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "graceful-fs": "^4.2.6",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ricko-v"
+  },
+  "keywords": [
+    "domain",
+    "grabber"
+  ],
+  "author": "./Twin-404",
+  "license": "ISC"
+}
